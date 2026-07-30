@@ -109,35 +109,7 @@ The cumulative explained variance analysis indicated that the variance was distr
 
 ## Project Workflow
 
-
-Student Dataset
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Encoding Categorical Features
-        │
-        ▼
-Train-Test Split
-        │
-        ▼
-Feature Scaling
-        │
-        ▼
-Principal Component Analysis (Optional)
-        │
-        ▼
-Multiple Linear Regression
-        │
-        ▼
-Prediction
-        │
-        ▼
-Performance Evaluation
-        │
-        ▼
-Visualization & Analysis
+[*Student Dataset*] ---> [*Data Cleaning*] ---> [*Encoding Categorical Features*] ---> [*Train-Test Split*] ---> [*Feature Scaling*] ---> [*Principal Component Analysis*] ---> [*Multiple Linear Regression*] ---> [*Prediction*] ---> [*Performance Evaluation*] ---> [*Visualization & Analysis*]
 
 
 
