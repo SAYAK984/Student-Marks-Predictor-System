@@ -111,7 +111,7 @@ The cumulative explained variance analysis indicated that the variance was distr
 
 [*Student Dataset*] ---> [*Data Cleaning*] ---> [*Encoding Categorical Features*] ---> [*Train-Test Split*] ---> [*Feature Scaling*] ---> [*Principal Component Analysis*] ---> [*Multiple Linear Regression*] ---> [*Prediction*] ---> [*Performance Evaluation*] ---> [*Visualization & Analysis*]
 
-![Project Workflow](Linear-Regression-Model-Workflow/project_workflow.png)
+![Linear Regression Workflow](Linear%20Regression%20Model%20Workflow/project_workflow.png)
 
 
 ## Future Improvements:
